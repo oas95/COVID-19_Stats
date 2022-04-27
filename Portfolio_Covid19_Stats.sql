@@ -1,3 +1,6 @@
+-- COVID-19 Data Exploration
+-- Data Date Range '01/01/2020-04/25/2022'
+
 Select *
 From PortfolioProjects..CovidDeaths_v1$
 Order By 3,4
