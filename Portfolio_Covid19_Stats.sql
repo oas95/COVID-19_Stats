@@ -1,5 +1,8 @@
--- COVID-19 Data Exploration
--- Data Date Range '01/01/2020-04/25/2022'
+/*
+COVID-19 Data Exploration
+Data Date Range '01/01/2020-04/25/2022'
+Global Cases, Global Deaths, Death Rate percentage, Infection Rates, Joins, & Vaccinations
+*/ 
 
 Select *
 From PortfolioProjects..CovidDeaths_v1$
