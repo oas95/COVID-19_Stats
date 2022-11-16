@@ -7,3 +7,4 @@ Joins, CTE's, temp tables, windows functions, aggregate functions, creating view
 Tableau Dashboard
 __________________
 ![image](https://github.com/oas95/COVID-19_Stats/blob/main/Tableau_Dashboard.png)
+
